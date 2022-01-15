@@ -1,0 +1,9 @@
+C:\Users\asima\source\repos\ChuckNorris.Libraries\bin\Debug\ChuckNorris.Libraries.dll
+C:\Users\asima\source\repos\ChuckNorris.Libraries\bin\Debug\ChuckNorris.Libraries.pdb
+C:\Users\asima\source\repos\ChuckNorris.Libraries\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asima\source\repos\ChuckNorris.Libraries\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asima\source\repos\ChuckNorris.Libraries\obj\Debug\ChuckNorris.Libraries.csproj.AssemblyReference.cache
+C:\Users\asima\source\repos\ChuckNorris.Libraries\obj\Debug\ChuckNorris.Libraries.csproj.CoreCompileInputs.cache
+C:\Users\asima\source\repos\ChuckNorris.Libraries\obj\Debug\ChuckNorris.Libraries.csproj.CopyComplete
+C:\Users\asima\source\repos\ChuckNorris.Libraries\obj\Debug\ChuckNorris.Libraries.dll
+C:\Users\asima\source\repos\ChuckNorris.Libraries\obj\Debug\ChuckNorris.Libraries.pdb
